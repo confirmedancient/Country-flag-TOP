@@ -1,4 +1,4 @@
-# TOPs-stacker
+# Country-flag-TOP
 TouchDesigner component, which allows to parse country flags in different resolutions
 
 # Overview
