@@ -8,3 +8,6 @@ TouchDesigner component, which allows to parse country flags in different resolu
 
 * **Country** - (menu) The country
 * **Width** - (int) Image width
+
+# Notes
+You need internet connection 
