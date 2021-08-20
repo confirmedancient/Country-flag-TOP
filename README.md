@@ -10,4 +10,5 @@ TouchDesigner component, which allows to parse country flags in different resolu
 * **Width** - (int) Image width
 
 # Notes
+API: flagpedia.net/download/api
 You need internet connection 
